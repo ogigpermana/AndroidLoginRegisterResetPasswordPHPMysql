@@ -9,7 +9,7 @@ Aplikasi sederhana ini terdiri dari sbb:
 
 Screenshot dibawah ini :
 
-![pic 1](screenshot/1)
-![pic 2](screenshot/2)
-![pic 3](screenshot/3)
+![pic 1](screenshot/1.png)
+![pic 2](screenshot/2.png)
+![pic 3](screenshot/3.png)
 
