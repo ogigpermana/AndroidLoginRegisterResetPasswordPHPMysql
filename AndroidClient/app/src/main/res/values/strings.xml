@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AndroidClient</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_register">Register</string>
+    <string name="header_register">TifOgi Register</string>
+    <string name="label_login">Already Registered? Login Now!</string>
+    <string name="label_name">Name</string>
+    <string name="label_register">Not Registered? Register Now!</string>
+    <string name="header_login">TifOgi Login</string>
+    <string name="field_empty">Fields are empty</string>
+    <string name="tifogi_reset">TifOgi Reset</string>
+    <string name="email">Email</string>
+    <string name="code">Code</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password? Click!</string>
+    <string name="request_new_code">Request New Code</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="or">Or</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+
+</resources>
