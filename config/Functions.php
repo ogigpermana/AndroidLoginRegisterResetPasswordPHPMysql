@@ -210,7 +210,7 @@ class Functions{
         $mail->FromName = 'Nama Aplikasi';
         $mail->addAddress($email, 'Nama Aplikasi');
 
-        $mail->addReplyTo('hunterdumay@gmail.com', 'Nama Aplikasi');
+        $mail->addReplyTo('email@example.com', 'Nama Aplikasi');
 
         $mail->WordWrap = 50;
         $mail->isHTML(true);

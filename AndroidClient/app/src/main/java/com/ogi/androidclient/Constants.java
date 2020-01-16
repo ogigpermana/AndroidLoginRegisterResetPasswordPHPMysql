@@ -1,7 +1,7 @@
 package com.ogi.androidclient;
 
 public class Constants {
-    public static final String BASE_URL = "http://192.168.43.54/";
+    public static final String BASE_URL = "http://10.0.2.2/"; // change this base on your environment
     public static final String REGISTER_OPERATION = "register";
     public static final String LOGIN_OPERATION = "login";
     public static final String CHANGE_PASSWORD_OPERATION = "chgPass";
